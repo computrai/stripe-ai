@@ -3,3 +3,4 @@ tenacity
 tiktoken
 termcolor
 openai
+chainlit
